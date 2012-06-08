@@ -1,4 +1,4 @@
-require "~/dev/katas/word_wrap/app/Wrapper.rb"
+require File.dirname(__FILE__) + '/../app/Wrapper.rb'
 
 describe "Wrapper" do
   w = Wrapper.new

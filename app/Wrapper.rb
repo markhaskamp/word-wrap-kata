@@ -33,7 +33,6 @@ class Wrapper
       b = str.slice(ndx, str.length).lstrip
     end
    
-    # puts "a,b: #{[a,b]}"
     return [a,b]
   end
 
