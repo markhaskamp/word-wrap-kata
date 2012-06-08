@@ -47,8 +47,8 @@ describe "Wrapper" do
 end
 
 describe "rspec start" do
-  it "you shall not pass" do
-    false.should == false
+  it "this too shall pass" do
+    true.should == true
   end
 end
 
