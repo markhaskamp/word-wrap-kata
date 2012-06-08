@@ -1,6 +1,6 @@
 # When recurring on a number, ask 1) 0? and 2) else
 # Always change at least one argument while recurring.
-# It must me changed to be closer to termination.
+# It must be changed to be closer to termination.
 # The changing argument must be tested in the termination condition.
 
 
